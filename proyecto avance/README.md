@@ -8,3 +8,4 @@ El proyecto esta desplegado en railway
 http://proyectochatsocket-production.up.railway.app/
 
 pero se puede ejecutar en local con npm run dev
+en http://localhost:3000/
